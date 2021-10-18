@@ -45,7 +45,6 @@ section{
   display: flex;
   align-content: center;
   justify-content: center;
-  padding: 50px;
 }
 
 .card__price {
@@ -67,7 +66,7 @@ section{
   max-width: 710px;
   justify-content: center;
   align-content: center;
-  height: 20%;
+  margin: auto;
   box-sizing: border-box;
 }
   
