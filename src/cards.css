@@ -45,6 +45,7 @@ section{
   display: flex;
   align-content: center;
   justify-content: center;
+  padding: 50px;
 }
 
 .card__price {
@@ -66,12 +67,13 @@ section{
   max-width: 710px;
   justify-content: center;
   align-content: center;
-  margin: auto;
+  height: 20%;
+  box-sizing: border-box;
 }
   
 .cardGroup__card {
   /* flex-grow, flex-shrink, flex-basis */
-  flex-grow: 1;
+  
   border: none;
   border-radius: 0;
   display: flex;
